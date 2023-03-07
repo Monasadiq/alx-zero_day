@@ -1,9 +1,1 @@
 #!/bin/bash
-^c 
-root@4b6cfd22edcf:/alx-zero_day/0x03-git/bash# cat > school
-#!/bin/bash
-echo "school"
-^c
-root@4b6cfd22edcf:/alx-zero_day/0x03-git/bash# git add .
-#!bin/bash
-echo  "ALX" 
